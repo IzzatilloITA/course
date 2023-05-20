@@ -1,0 +1,32 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "name":"Youtube darslik",
+            "describe":"",
+            "price":990,
+            "chegirma":1050
+        },
+        {   
+            "id":2,
+            "name":"Youtube darslik",
+            "describe":"",
+            "price":1090,
+            "chegirma":2020
+        },
+        {
+            "id":3,
+            "name":"Youtube darslik",
+            "describe":"",
+            "price":2090,
+            "chegirma":3010
+        },
+        {
+            "id":4,
+            "name":"Youtube darslik",
+            "describe":"",
+            "price":550,
+            "chegirma":560
+        }
+    ]
+}
