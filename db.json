@@ -5,28 +5,36 @@
             "name":"Youtube darslik",
             "describe":"",
             "price":990,
-            "chegirma":1050
+            "chegirma":1050,
+            "vaqt":90,
+            "soat":50
         },
         {   
             "id":2,
             "name":"Youtube darslik",
             "describe":"",
             "price":1090,
-            "chegirma":2020
+            "chegirma":2020,
+            "vaqt":90,
+            "soat":50
         },
         {
             "id":3,
             "name":"Youtube darslik",
             "describe":"",
             "price":2090,
-            "chegirma":3010
+            "chegirma":3010,
+            "vaqt":90,
+            "soat":50
         },
         {
             "id":4,
             "name":"Youtube darslik",
             "describe":"",
             "price":550,
-            "chegirma":560
+            "chegirma":560,
+            "vaqt":90,
+            "soat":50
         }
     ]
 }
