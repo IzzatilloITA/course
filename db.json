@@ -27,14 +27,5 @@
             "vaqt":90,
             "soat":50
         },
-        {
-            "id":4,
-            "name":"Youtube darslik",
-            "describe":"",
-            "price":550,
-            "chegirma":560,
-            "vaqt":90,
-            "soat":50
-        }
     ]
 }
